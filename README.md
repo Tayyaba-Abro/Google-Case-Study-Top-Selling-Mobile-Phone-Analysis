@@ -4,6 +4,8 @@
 This case study is based on the analysis of best-selling mobile phones. As a part of the Google Data Analytics Professional Certification, I chose this topic to explore the fascinating world of mobile phone market trends and sales patterns. This case study serves as an opportunity for me, as a beginner in R, to apply my data analytics skills to real-world data and gain valuable insights.
 
 ## Quick Links
+- **Excel Data:** [Mobile Phone Selling Data](https://github.com/Tayyaba-Abro/Google-Case-Study-Top-Selling-Mobile-Phone-Analysis)
+- **Tableau Visualization:** [Top 10 Mobile Phone Selling Dashboard](   
 
 ## Data Analysis Phases
 
@@ -108,6 +110,27 @@ By acting on these insights, manufacturers can optimize their product portfolios
 
 ## Dashboard
 The dashboard of Top Selling Mobile Phones is created on Tableau. 
+
+![image](https://github.com/Tayyaba-Abro/Google-Case-Study-Top-Selling-Mobile-Phone-Analysis/assets/47588244/b0084f14-5358-4c0e-8ea5-73004d393496)
+
+In this project, I've leveraged Tableau's powerful features to create an interactive and visually appealing dashboard. Let me walk you through some of the key elements and techniques I've used to make this dashboard user-friendly and informative:
+
+### Horizontal and Vertical Containers:
+To create a clean and organized layout, I've utilized horizontal and vertical containers in Tableau. These containers help in arranging multiple sheets and components neatly on the dashboard, ensuring a seamless viewing experience. 
+
+### Interactive Filters:
+Filters play a crucial role in allowing users to interact with the data. I've incorporated interactive filters for both "Year" and "Form" to provide users with the flexibility to customize their analysis. 
+
+### Images and Text:
+To enhance the visual appeal and provide additional context, I've added relevant images of popular mobile phones on top of dashboard. These images act as visual cues and make the analysis more engaging. Additionally, I've included informative text sections to provide insights, highlight key findings, and clarify any data assumptions, such as the unit sold values being represented in millions.
+
+### Insightful Visualizations:
+Each chart and graph in the dashboard has been carefully chosen to present key insights effectively. From "Unit Sold per Year" to "Unit Sold by Region," "Unit Sold by Form," "Top 10 Models with Manufacturers," and "Top 10 Countries Dominating Sales," each visualization offers a unique perspective on the mobile phone market dynamics.
+
+### Storytelling:
+In the storytelling, cards serve as crucial signposts that guide viewers through the journey of data exploration. These cards are strategically placed within the dashboard to highlight key insights and provide context for the visualizations. Each card encapsulates a significant finding, allowing users to grasp essential information at a glance.
+
+
 
 
 
