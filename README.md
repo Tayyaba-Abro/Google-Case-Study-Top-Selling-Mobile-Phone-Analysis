@@ -22,7 +22,7 @@ From the data I have chosen for analysis, we will find following insights:
 For this analysis, the data was obtained from Kaggle’s dataset [“Best Selling Mobile Phones”](https://www.kaggle.com/datasets/muhammedtausif/best-selling-mobile-phones/discussion). The dataset includes information on best-selling mobile phones, mobile phone brands by country, and total phone devices by company. Moreover, the data in these datasets are current as of the year 2021. It’s important to note that the analysis is based on the information available until 2021, and any recent developments beyond that year might not be reflected in the data.
 
 ### Prepare Phase:
-Before importing the data into R, some data cleaning and pre-processing were performed in [Microsoft Excel]((https://github.com/Tayyaba-Abro/Google-Case-Study-Top-Selling-Mobile-Phone-Analysis). The data cleaning steps in Excel included:
+Before importing the data into R, some data cleaning and pre-processing were performed in [Microsoft Excel](https://github.com/Tayyaba-Abro/Google-Case-Study-Top-Selling-Mobile-Phone-Analysis). The data cleaning steps in Excel included:
 -	Data Duplication: All files were checked for duplicate values.
 -	Handling Missing Values: Any missing values were identified and addressed appropriately, such as filling missing data or removing incomplete records.
 -	Data Format: The data format of each column was checked and corrected to ensure consistency and accuracy.
