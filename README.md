@@ -29,6 +29,7 @@ Before importing the data into R, some data cleaning and pre-processing were per
 -	Data Validation: Outliers and anomalies were reviewed and verified for data accuracy.
 
 The cleaned datasets were then saved in CSV format for further analysis in R.
+
 ![image](https://github.com/Tayyaba-Abro/Google-Case-Study-Top-Selling-Mobile-Phone-Analysis/assets/47588244/26e9d1de-1e64-48dc-8767-18ab9a203b0a)
 ![image](https://github.com/Tayyaba-Abro/Google-Case-Study-Top-Selling-Mobile-Phone-Analysis/assets/47588244/3cfa79ea-d331-4b4d-9afb-24f8dbc9efc8)
 ![image](https://github.com/Tayyaba-Abro/Google-Case-Study-Top-Selling-Mobile-Phone-Analysis/assets/47588244/4b260e39-3aa8-49d4-8da8-acc5c649622b)
