@@ -62,30 +62,37 @@ In this phase, we will showcase fascinating visualizations of each key finding.
 
 #### Number of Devices of Top 10 Companies
 In our analysis of the top-selling mobile phone companies, we found that Samsung stands out as the leading company with the highest number of devices sold, surpassing 1000 number of total devices. The chart below illustrates the number of devices sold by the top 10 companies:
+
 ![image](https://github.com/Tayyaba-Abro/Google-Case-Study-Top-Selling-Mobile-Phone-Analysis/assets/47588244/cd312d54-defa-4080-b17e-df7dc7abf4f9)
 
 #### Top 10 Models Unit Sold with Manufacturer
 From the analysis, it was illustrated that the top-selling mobile phone manufacturers are primarily Nokia and Apple. Among these two manufacturers, Nokia stands out with a higher number of units sold as compared to Apple. However, it is noteworthy that Apple has a larger variety of models sold, contributing to its significant presence in the mobile phone market.
+
 ![image](https://github.com/Tayyaba-Abro/Google-Case-Study-Top-Selling-Mobile-Phone-Analysis/assets/47588244/a2426e9e-bcd3-496c-b05c-1779be112484)
 
 #### Number of Brands in Country
 The analysis of the number of brands in countries revealed interesting insights, especially regarding China’s dominance in the mobile phone market. From the data, it was evident that China has a significantly higher number of mobile phone brands compared to other countries, boasting over more than 30 brands.
+
 ![image](https://github.com/Tayyaba-Abro/Google-Case-Study-Top-Selling-Mobile-Phone-Analysis/assets/47588244/d1c3472e-00d8-4de1-87dd-35e6813d9e55)
 
 #### Units Sold by Region
 Among the units sold by regions, it is evident that the “Asia” region stands out with the highest number of units sold, indicating a significant demand for mobile phones in this area. On the other hand, the “Oceania” region shows the least number of units sold, indicating a potentially smaller market or different consumer preferences in that area.
+
 ![image](https://github.com/Tayyaba-Abro/Google-Case-Study-Top-Selling-Mobile-Phone-Analysis/assets/47588244/24f1ee48-e1ac-418b-af1a-73c6189a18c2)
 
 #### Units Sold by Country
 The analysis of the top 10 units sold by country has revealed a significant trend, again highlighting the dominance of China in the mobile phone market. With a staggering record of over 150,000 units sold, China stands out as a major player in the global mobile phone industry. In contrast, the other nine countries included in the top 10 list trail behind with less than 100,000 units sold each.
+
 ![image](https://github.com/Tayyaba-Abro/Google-Case-Study-Top-Selling-Mobile-Phone-Analysis/assets/47588244/5be1ae28-6001-44a5-a1f6-fa0c64deb4c2)
 
 #### Units Sold by Form
 From the analysis of the 7 types of mobile phone forms, it was observed that the “Touchscreen” form has the largest number of units sold, accounting for the majority of sales. Additionally, the “Bar” form is also competitive, with only a slight difference of 5% fewer units sold compared to the “Touchscreen” form. The other form types show comparatively lower sales figures, with “Taco” and “Tilt Slider” forms being the least preferred by consumers.
+
 ![image](https://github.com/Tayyaba-Abro/Google-Case-Study-Top-Selling-Mobile-Phone-Analysis/assets/47588244/af676235-6f1c-401b-b072-269dc9dbafd1)
 
 #### Units Sold per Year
 The line chart above illustrates the trend of unit sales per year for mobile phones. It can be observed that the highest number of units sold occurred between 2004 and 2005, which indicates a significant surge in demand during that period.
+
 ![image](https://github.com/Tayyaba-Abro/Google-Case-Study-Top-Selling-Mobile-Phone-Analysis/assets/47588244/7c931ab4-9ba3-4e5d-9e8e-ccbad35f54a9)
 
 ### Act Phase:
