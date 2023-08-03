@@ -106,7 +106,8 @@ In the “Act” phase, the analysis points to key takeaways and actionable insi
 
 By acting on these insights, manufacturers can optimize their product portfolios, target specific regions, and remain competitive in the dynamic global mobile phone market.
 
-
+## Dashboard
+The dashboard of Top Selling Mobile Phones is created on Tableau. 
 
 
 
