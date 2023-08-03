@@ -5,7 +5,7 @@ This case study is based on the analysis of best-selling mobile phones. As a par
 
 ## Quick Links
 - **Excel Data:** [Mobile Phone Selling Data](https://github.com/Tayyaba-Abro/Google-Case-Study-Top-Selling-Mobile-Phone-Analysis)
-- **Tableau Visualization:** [Top 10 Mobile Phone Selling Dashboard](https://public.tableau.com/app/profile/tayyaba.abro/viz/MobilePhoneAnalysis/Dashboard1)   
+- **Tableau Visualization:** [Mobile Phone Selling Dashboard](https://public.tableau.com/app/profile/tayyaba.abro/viz/MobilePhoneAnalysis/Dashboard1)   
 
 ## Data Analysis Phases
 
